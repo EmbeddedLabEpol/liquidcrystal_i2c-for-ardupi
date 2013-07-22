@@ -1,7 +1,3 @@
-// LiquidCrystalI2C for arduPI
-// library edited by Sarbyn in order to add compatibility
-// with coocking-hacks raspberry to arduino shield
-
 //DFRobot.com
 #ifndef LiquidCrystal_I2C_h
 #define LiquidCrystal_I2C_h
